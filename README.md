@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Devops and Cloud Computing**
 
-- 💬 Ask me about **anything related to programing**
+- 💬 Ask me about **anything related to programming**
 
 - 📫 How to reach me **najamurrehman92@gmail.com**
 
