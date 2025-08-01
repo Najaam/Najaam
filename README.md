@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Something Fishy 👀**
 
-- 🌱 I’m currently learning **NextJs, Java(Bootspring), Golang, CloudComputing**
+- 🌱 I’m currently learning **NextJs, Java(Bootspring), Golang, CloudComputing,Machine0Learning, Deep-Learning, NLP **
 
 - 🤝 I’m looking for help with **Devops and Cloud Computing**
 
